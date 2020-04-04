@@ -10,3 +10,5 @@ The effects of COVID-19 have yet to emerge as the situation is evolving rapidly.
 
 
  ![Alt Text](https://zindpublic.blob.core.windows.net/public/uploads/image_attachment/image/354/ca3b2001-9b07-4056-b9e0-ae31acd91e18.png)
+ 
+ # [Check my position in the leaderboard and the Certificate](https://zindi.africa/users/Mohie_eldin/competitions/certificate)

@@ -9,4 +9,4 @@ This challenge asks data scientists on Zindi to accurately predict the spread of
 The effects of COVID-19 have yet to emerge as the situation is evolving rapidly. With this challenge we hope to contribute to the global body of knowledge which will help stem the impact of pandemics such as this one as well as those in the future.
 
 
-Format: ![Alt Text](https://zindpublic.blob.core.windows.net/public/uploads/image_attachment/image/354/ca3b2001-9b07-4056-b9e0-ae31acd91e18.png)
+ ![Alt Text](https://zindpublic.blob.core.windows.net/public/uploads/image_attachment/image/354/ca3b2001-9b07-4056-b9e0-ae31acd91e18.png)
